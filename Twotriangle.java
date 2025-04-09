@@ -31,7 +31,7 @@ g.drawLine(300, 900, 500, 900);
 	  
   }
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method Stub
 
 		new Twotriangle();
 	}
